@@ -1,0 +1,38 @@
+#EXTINF:-1,TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1,EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1,COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1,MULTIVISIÓN TV
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1,ANIMESTATION
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+
+#EXTINF:-1,CANAL 4 (SAN JUAN)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1,TELESOL (SAN JUAN)
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,CANAL 34 (SAN JUAN)
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1,TN ARGENTINA
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1,CANAL RURAL
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1,NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
+#EXTINF:-1,CINE AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
+
+#EXTINF:-1,MTV BIGGEST POP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
